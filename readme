@@ -1,0 +1,22 @@
+# Overview
+
+As a software engineer, I’m focused on improving my understanding of JavaScript by building interactive, real-world applications. This to-do list web app showcases my ability to work with DOM manipulation, ES6 features, recursion, and third-party libraries.
+
+The app lets users add, remove, and complete tasks, dynamically updating the UI. I built it to deepen my skills in native JavaScript, improve my error-handling logic, and explore external libraries like Lodash.
+
+[Software Demo Video](https://youtu.be/tGwwyt5Q04k?si=8jHR_18y0XnHyWje)
+
+# Development Environment
+
+I developed the app using Visual Studio Code with a local live server for testing. The project uses HTML, CSS for styling, and JavaScript for interactivity.
+
+I used modern ES6+ features like filter, includes, and push, as well as Lodash (via CDN) to simplify array operations. Recursion is used to render the task list, and try-catch is implemented for basic error handling.
+
+# Useful Websites
+- [How To Create A To Do List](https://www.w3schools.com/howto/howto_js_todolist.asp)
+- [Implementing To-Do List using JavaScript](https://dev.to/iamcymentho/implementing-to-do-list-using-javascript-32a7)
+
+# Future Work
+- Add deadlines 
+- I would like to add more things to the background
+- Add search functionality
